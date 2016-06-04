@@ -1,2 +1,7 @@
 # hello-world
-my hello world repo
+
+
+Hi all!
+
+My name is nesto. I'm newish to Git. 
+
